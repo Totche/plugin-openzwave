@@ -1,7 +1,7 @@
 == Configuration du plugin
 
 Après le téléchargement du plugin, il vous suffit de l'activer et de le configurer.
-Use fois sauvegardé, le démon devrait se lancer.
+Une fois sauvegardé, le démon devrait se lancer.
 Le plugin est préconfiguré avec des valeurs par défaut ; vous n'avez normalement rien à faire de plus.
 Cependant vous pouvez modifier la configuration.
 image:../images/openzwave1.png[]
